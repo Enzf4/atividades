@@ -1,0 +1,34 @@
+Respostas
+
+1- <header> representa um contâiner com conteúdos introdutórios, podendo incluir links de navegação.
+
+2- <main> representa o conteúdo principal de um documento.
+
+3- <nav> representa um conjunto de links de navegação.
+
+4- <img> representa uma imagem no documento.
+
+5- <h1> cabeçalho de maior hierarquia.
+
+6- <h2> cabeçalho com o segundo maior nível de hierarquia.
+
+7- <p> representa um parágrafo.
+
+8- <a> representa um hyperlink 
+
+9- <footer> representa o rodapé de um documento.
+
+10- <ul> representa uma lista desordenada.
+
+11- <li> representa o item de uma lista.
+
+12- <form> representa um formulário.
+
+13- <label> define um rótulo para um elemento.
+
+14- <input> define um campo de entrada de diversos tipos.
+
+15- <select> define uma lista "drop-down".
+
+16- <button> define um botão clicável.
+
