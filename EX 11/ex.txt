@@ -1,0 +1,5 @@
+MySQL:
+O MySQL é um sistema de banco de dados muito popular, usado amplamente em aplicações web. É conhecido por sua velocidade e desempenho, é de código aberto e tem uma grande comunidade de desenvolvedores. Ele suporta várias linguagens de programação e é uma escolha comum para pequenas e grandes empresas.
+
+PostgreSQL:
+O PostgreSQL é um banco de dados relacional de código aberto conhecido por sua extensibilidade e recursos avançados, como pesquisa em texto e geoespacial. Ele é altamente personalizável, sendo uma ótima escolha para aplicações que requerem recursos avançados. É usado em casos de missão crítica e análise de dados complexos devido à sua conformidade com padrões e recursos ACID.
