@@ -1,0 +1,12 @@
+Entidade: Jogo
+
+Atributos Simples:
+    Título (string)
+
+Atributos Compostos:
+    Desenvolvedor
+        Nome (string)
+        País (string)
+        
+Atributos Multivalorados:
+    Plataformas (conjunto de strings)
