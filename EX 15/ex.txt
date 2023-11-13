@@ -1,0 +1,10 @@
+Imagine que você está em um restaurante. O cliente (você) senta-se à mesa e olha para o cardápio. 
+Você decide o que deseja e chama o garçom (servidor) para fazer o pedido. O garçom leva seu pedido 
+para a cozinha (servidor), onde os chefs (outra parte do servidor) preparam a comida. Quando a 
+comida está pronta, o garçom a traz de volta para a sua mesa.
+
+Na arquitetura cliente-servidor, o cliente é como você, solicitando serviços ou recursos, e o servidor 
+é como o pessoal do restaurante, fornecendo esses serviços ou recursos. Eles se comunicam entre si para 
+atender às necessidades do cliente. No mundo digital, isso pode ocorrer em redes de computadores, 
+onde o cliente (por exemplo, seu navegador da web) solicita informações ou serviços ao servidor 
+(o computador que hospeda um site), e o servidor responde fornecendo o que foi solicitado.
