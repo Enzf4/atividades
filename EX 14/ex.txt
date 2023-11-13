@@ -1,0 +1,44 @@
+-- Alunos Aprovados
+SELECT PNome, UNome, Nota
+FROM ALUNO
+WHERE Nota > 7.0;
+
+-- Alunos do Primeiro Ano com Nota >= 8,0
+SELECT PNome, UNome, Nota
+FROM ALUNO
+WHERE Ano = 1 AND Nota >= 8.0;
+
+-- Nomes e Notas dos Alunos
+SELECT PNome, UNome, Nota
+FROM ALUNO;
+
+-- Tabela PROFESSOR
+CREATE TABLE PROFESSOR AS
+SELECT DISTINCT PNome, UNome
+FROM PROFESSOR;
+
+-- Tabela ALUNO
+CREATE TABLE ALUNO AS
+SELECT DISTINCT PNome, UNome
+FROM ALUNO;
+
+-- Resultado da União entre ALUNO e PROFESSOR
+SELECT PNome, UNome
+FROM ALUNO
+UNION
+SELECT PNome, UNome
+FROM PROFESSOR;
+
+-- Resultado da Intersecção entre ALUNO e PROFESSOR
+SELECT PNome, UNome
+FROM ALUNO
+INTERSECT
+SELECT PNome, UNome
+FROM PROFESSOR;
+
+-- Resultado da Diferença entre ALUNO e PROFESSOR
+SELECT PNome, UNome
+FROM ALUNO
+EXCEPT
+SELECT PNome, UNome
+FROM PROFESSOR;
